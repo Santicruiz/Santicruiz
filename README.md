@@ -1,3 +1,4 @@
+[![MasterHead](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-07/220712-2x1-james-webb-first-photos-ew-1212p-8122fd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Santiago Castro</h1>
 <h3 align="center">A passionate Mechatronics Engineer with a keen interest in aerospace and technology</h3>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZqNmQ1Ym9wcWVndnNxMmhoMjZ6bmlqMTZya25pZW8zN3hoM3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" alt="GIF" />
