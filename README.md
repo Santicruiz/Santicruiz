@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Castro</h1>
 <h3 align="center">A passionate Mechatronics Engineer with a keen interest in aerospace and technology</h3>
-<h3 align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZqNmQ1Ym9wcWVndnNxMmhoMjZ6bmlqMTZya25pZW8zN3hoM3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif
-">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzZqNmQ1Ym9wcWVndnNxMmhoMjZ6bmlqMTZya25pZW8zN3hoM3d3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" alt="GIF" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santicruiz&label=Profile%20views&color=0e75b6&style=flat" alt="santicruiz" /> </p>
 
 - 📝 I regularly write articles on [Overleaf](Overleaf)
